@@ -9,11 +9,11 @@ dvirberlo/dvirberlo is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvirberlo&theme=highcontrast&hide_border=true)]()
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvirberlo&theme=highcontrast&hide_border=true)](#)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvirberlo&show_icons=true&theme=highcontrast&hide_border=true)]()
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvirberlo&show_icons=true&theme=highcontrast&hide_border=true)](#)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvirberlo&layout=compact&theme=highcontrast&hide_border=true)]()
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvirberlo&layout=compact&theme=highcontrast&hide_border=true)](#)
 
 
 (made by [@DenverCoder1](https://github.com/DenverCoder1/github-readme-streak-stats) and [@anuraghazra](https://github.com/anuraghazra/github-readme-stats))
