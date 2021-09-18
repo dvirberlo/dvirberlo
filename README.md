@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvirberlo&show_icons=true&theme=highcontrast&hide_border=true)](https://github-readme-stats.vercel.app/api?username=dvirberlo&show_icons=true&theme=highcontrast&hide_border=true)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvirberlo&layout=compact&theme=highcontrast&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=dvirberlo&layout=compact&theme=highcontrast&hide_border=true)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvirberlo&layout=compact&theme=highcontrast&hide_border=true&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=dvirberlo&layout=compact&theme=highcontrast&hide_border=true&langs_count=10)
 
 
 (boards made by [@DenverCoder1](https://github.com/DenverCoder1/github-readme-streak-stats) and [@anuraghazra](https://github.com/anuraghazra/github-readme-stats))
