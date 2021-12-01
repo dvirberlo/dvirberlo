@@ -40,5 +40,5 @@ I did a wide Linux distributions tour on VirtualBox, and chose [Linux Mint](http
 I tasted a bit Machine Learning alogside **Python** and than did some of [CS](https://github.com/ossu/computer-science) cources from [OSSU](https://github.com/ossu).
 - https://github.com/dvirberlo/nand2tetris_project
 
-Now I am doing an annoying windows forms application.
+I did an annoying **C#** windows forms application for school.
 - https://github.com/dvirberlo/periodical_table
