@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning anything (and [CS](https://github.com/ossu/computer-science#core-math)).
 - 💞️ I’m looking to collaborate on anything meaningful and interesting.
 - 📫 How to reach me: dvir.berlowitz@hotmail.com
-
+- More about me on [HISTORY.md](./HISTORY.md)
 <!---
 dvirberlo/dvirberlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
