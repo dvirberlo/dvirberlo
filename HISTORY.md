@@ -1,6 +1,6 @@
 # Programming History
 
-In 5th grade I started to learn **HTML** and than **CSS** and a bit **JavaScript** from web guides in Hebrew: (I didn't know English yet)
+In 5th grade I started to learn **HTML** and than **CSS** from web guides in Hebrew: (I didn't know English yet)
 - http://www.htmlguide.co.il/, http://www.devschool.co.il/Guides/html5/html5_HOME.aspx
 
 ---
@@ -17,16 +17,16 @@ With my brother's advices, I continued learning **Java** and than switched to **
 
 ---
 
-I continued to learn **JavaScript** and **PHP** and developed many sites at [000webhost](https://000webhost.com).
+I started to learn **JavaScript** and **PHP** and developed many websites at [000webhost](https://000webhost.com).
 - Few of them are (most of them was lost): https://github.com/dvirberlo/barber-line , https://github.com/dvirberlo/buylist
 
 
-In school I did **ASM 8086** project.
+In 9th grade I did **ASM 8086** project for school.
 - https://github.com/dvirberlo/asm8086_text
 
 ---
 
-I liked **JavaScript** so i continued and learned some canvasing with JS and than I learned **NodeJS**: mostly Express & WebSocket and a bit of cryptography with [Heroku](https://heroku.com).
+I liked **JavaScript** so in 10th and 11th grades I continued and learned some canvasing with JS and than I learned **NodeJS**: mostly Express & WebSocket and a bit of cryptography with [Heroku](https://heroku.com).
 - https://github.com/dvirberlo/game , https://github.com/dvirberlo/simple-aes-ws , https://github.com/dvirberlo/rocket-ships , https://github.com/dvirberlo/LiveSnakeGame
 
 
@@ -35,10 +35,12 @@ I was exposed to the world of open source, and contirbuted here and there.
 
 ---
 
-I did a wide Linux distributions tour on VirtualBox, and chose [Linux Mint](https://linuxmint.com) as the most user-friendly, stable and smooth distro.
+In 12th grade I did a wide Linux distributions tour on VirtualBox, and chose [Linux Mint](https://linuxmint.com) as the most user-friendly, stable and smooth distro.
 
 I tasted a bit Machine Learning alogside **Python** and than did some of [CS](https://github.com/ossu/computer-science) cources from [OSSU](https://github.com/ossu).
 - https://github.com/dvirberlo/nand2tetris_project
 
 I did an annoying **C#** windows forms application for school.
 - https://github.com/dvirberlo/periodical_table
+
+I [got dissappointed](https://forums.linuxmint.com/viewtopic.php?f=46&t=361219) of [Linux Mint](https://linuxmint.com), so I switch to [Fedora](https://getfedora.org).
