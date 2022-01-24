@@ -31,7 +31,7 @@ I liked **JavaScript** so in 10th and 11th grades I continued and learned some c
 
 
 I was exposed to the world of open source, and contirbuted here and there.
-- https://github.com/dvirberlo/game/pull/39 , https://github.com/mathkruger/litefy
+- https://github.com/firstcontributions/first-contributions/pull/36659 , https://github.com/mathkruger/litefy
 
 ---
 
