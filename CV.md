@@ -34,7 +34,7 @@
 
 
 Most used languages:
-[Python](https://github.com/dvirberlo/nand2tetris_project), [JavaScript](https://github.com/dvirberlo/game/blob/main/app.js) and [C#](https://github.com/dvirberlo/periodical_table)
+[Python](https://github.com/dvirberlo/nand2tetris_project), [JavaScript](https://github.com/dvirberlo/game/) and [C#](https://github.com/dvirberlo/periodical_table)
 
 ## Languages
 [■■■■■]
