@@ -10,7 +10,7 @@
 ## Education & Background
 - *April '05*  Self education since 5th grade
 
-- *August '21*  Strated some OSSU course in 11th grade
+- *August '21*  Since 11th grade strated some [CS courses](https://github.com/ossu/computer-science#readme) from OSSU
 
 <!-- TODO: - *August '22*  Finish high school with 10 study units in computers -->
 
@@ -34,7 +34,7 @@
 
 
 Most used languages:
-Python, JavaScript and C#
+[Python](https://github.com/dvirberlo/nand2tetris_project), [JavaScript](https://github.com/dvirberlo/game/blob/main/app.js) and [C#](https://github.com/dvirberlo/periodical_table)
 
 ## Languages
 [■■■■■]
@@ -63,7 +63,7 @@ Email:
 dvir.berlowitz@hotmail.com
 
 Telegram:
-@dvirberlo
+[@dvirberlo](https://t.me/dvirberlo)
 
 Adress:
 Israel 
