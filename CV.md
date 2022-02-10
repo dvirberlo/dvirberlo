@@ -10,26 +10,26 @@
 ## Education & Background
 - *April '05*  Self education since 5th grade
 
-- *August '21*  Since 11th grade strated some [CS courses](https://github.com/ossu/computer-science#readme) from OSSU
+- *August '21*  Since 11th grade strated [some CS courses](https://github.com/dvirberlo/dvirberlo/blob/main/TIMELINE.md#2021) from [OSSU](https://github.com/ossu/computer-science#readme)
 
 <!-- TODO: - *August '22*  Finish high school with 10 study units in computers -->
 
 ## Skills
 
-[    █]
+⬡⬡⬡⬡⬢
 **Machine Learning** 🧠
 
-[  ███]
+⬡⬡⬢⬢⬢
 **Object Oriented Programming** 🚚
 
-[ ████]
+⬡⬢⬢⬢⬢
 **Websites & UI** 📱
 
 
-[	██]
+⬡⬡⬡⬢⬢
 **Linux** 🐧
 
-[ ████]
+⬡⬢⬢⬢⬢
 **Server & DB** 🌩️
 
 
@@ -37,13 +37,13 @@ Most used languages:
 [Python](https://github.com/dvirberlo/nand2tetris_project), [JavaScript](https://github.com/dvirberlo/game/blob/main/app.js) and [C#](https://github.com/dvirberlo/periodical_table)
 
 ## Languages
-[█████]
+⬢⬢⬢⬢⬢
 **Hebrew**
 
-[ ████]
+⬡⬢⬢⬢⬢
 **English**
 
-[           ██]
+⬡⬡⬡⬡⬢
 **French**
 
 ## Work Experience
