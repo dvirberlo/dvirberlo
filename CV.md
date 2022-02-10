@@ -19,7 +19,7 @@
 ⬡⬡⬡⬡⬢
 **Machine Learning** 🧠
 
-⬡⬡⬢⬢⬢
+⬡⬡⬡⬢⬢
 **Object Oriented Programming** 🚚
 
 ⬡⬢⬢⬢⬢
