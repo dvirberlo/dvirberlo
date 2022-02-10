@@ -44,7 +44,9 @@ SQL,
 MongoDB,
 jQuery,
 Bootstrap,
-NodeJS
+NodeJS,
+Express,
+Windows Forms
 
 ### Main projects
 - [Nand2Tetris](https://github.com/dvirberlo/nand2tetris_project)
