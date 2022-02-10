@@ -46,6 +46,16 @@ jQuery,
 Bootstrap,
 NodeJS
 
+### Main projects
+- [Nand2Tetris](https://github.com/dvirberlo/nand2tetris_project)
+
+- [Periodical Table](https://github.com/dvirberlo/periodical_table)
+
+- [ASM-8086 String processor](https://github.com/dvirberlo/asm8086_text)
+
+- [Abandon game plan](https://github.com/dvirberlo/game)
+
+
 ## Languages
 ⬢⬢⬢⬢⬢
 **Hebrew**
