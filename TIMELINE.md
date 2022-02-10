@@ -44,5 +44,5 @@ I did an annoying **C#** windows forms application for school.
 
 I [got dissappointed](https://forums.linuxmint.com/viewtopic.php?f=46&t=361219) of [Linux Mint](https://linuxmint.com), so I switch to [Fedora](https://getfedora.org).
 
-### 2022
+## 2022
 Started to learn [CS-537](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) ([OSSU/CS - Core systems](https://github.com/ossu/computer-science#core-systems))
