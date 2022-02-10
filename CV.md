@@ -16,20 +16,20 @@
 
 ## Skills
 
-[MWMW■]
+[    █]
 **Machine Learning** 🧠
 
-[MW■■■]
+[  ███]
 **Object Oriented Programming** 🚚
 
-[M■■■■]
+[ ████]
 **Websites & UI** 📱
 
 
-[MWM■■]
+[	██]
 **Linux** 🐧
 
-[M■■■■]
+[ ████]
 **Server & DB** 🌩️
 
 
@@ -37,13 +37,13 @@ Most used languages:
 [Python](https://github.com/dvirberlo/nand2tetris_project), [JavaScript](https://github.com/dvirberlo/game/blob/main/app.js) and [C#](https://github.com/dvirberlo/periodical_table)
 
 ## Languages
-[■■■■■]
+[█████]
 **Hebrew**
 
-[M■■■■]
+[ ████]
 **English**
 
-[MWM■■]
+[           ██]
 **French**
 
 ## Work Experience
