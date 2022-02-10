@@ -67,9 +67,9 @@ Windows Forms
 ⬢⬡⬡⬡⬡
 **French**
 
-## Work Experience
+<!-- ## Work Experience
 
-none
+none -->
 
 ## Hobies
 
