@@ -8,7 +8,7 @@
 </p>
 
 ## Education & Background
-- *April '05*  Self education since 5th grade
+- *April '05*  Self-taught programmer since 5th grade
 
 - *August '21*  Since 11th grade strated [some CS courses](https://github.com/dvirberlo/dvirberlo/blob/main/TIMELINE.md#2021) from [OSSU](https://github.com/ossu/computer-science#readme)
 
@@ -17,7 +17,7 @@
 ## Skills
 
 ⬢⬡⬡⬡⬡
-**Machine Learning** 🧠
+**Machine Learning & Algorithms** 🧠
 
 ⬢⬢⬡⬡⬡
 **Object Oriented Programming** 🚚
