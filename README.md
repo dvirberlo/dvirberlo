@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dvirberlo
 - 👀 I’m interested in new technologies, complicated systems and ingenious and revolutionary ideas.
-- 🌱 I’m currently learning anything (and [CS](https://github.com/ossu/computer-science#core-math)).
+- 🌱 I’m currently in 12th grade and learning some [CS](https://github.com/ossu/computer-science#core-systems) courses.
 - 💞️ I’m looking to collaborate on anything meaningful and interesting.
 - 📫 How to reach me: dvir.berlowitz@hotmail.com
 - More about me on [CV.md](./CV.md) and [TIMELINE.md](./TIMELINE.md)
