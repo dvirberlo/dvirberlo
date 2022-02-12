@@ -10,7 +10,7 @@
 ## Education & Background
 - *April '15*  My journey as a self-taught programmer started as a hobby (in 5th grade)
 
-- *August '21*  Strated [some CS courses](https://github.com/dvirberlo/dvirberlo/blob/main/TIMELINE.md#2021) from [OSSU](https://github.com/ossu/computer-science#readme)
+- *August '21*  I Started [some CS courses](https://github.com/dvirberlo/dvirberlo/blob/main/TIMELINE.md#2021) from [OSSU](https://github.com/ossu/computer-science#readme)
 
 <!-- TODO: - *August '22*  Finished high school with 10 study units in computers -->
 
@@ -32,12 +32,12 @@
 **Server & DB** 🌩️
 
 
-Most used languages:
+The languages I used the most:
 [Python](https://github.com/dvirberlo/nand2tetris_project),
 [JavaScript](https://github.com/dvirberlo/game/blob/main/app.js)
 and [C#](https://github.com/dvirberlo/periodical_table)
 
-Well known technologies:
+Technologies I know very well:
 Git,
 SQL,
 MongoDB,
@@ -54,7 +54,7 @@ Windows Forms
 
 - [ASM-8086 String processor](https://github.com/dvirberlo/asm8086_text)
 
-- [Abandon game plan](https://github.com/dvirberlo/game)
+- [Abandoned game plan](https://github.com/dvirberlo/game)
 
 
 ## Languages
