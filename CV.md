@@ -8,11 +8,11 @@
 </p>
 
 ## Education & Background
-- *April '05*  Self-taught programmer since 5th grade
+- *April '15*  My journey as a self-taught programmer started as a hobby (in 5th grade)
 
-- *August '21*  Since 11th grade strated [some CS courses](https://github.com/dvirberlo/dvirberlo/blob/main/TIMELINE.md#2021) from [OSSU](https://github.com/ossu/computer-science#readme)
+- *August '21*  Strated [some CS courses](https://github.com/dvirberlo/dvirberlo/blob/main/TIMELINE.md#2021) from [OSSU](https://github.com/ossu/computer-science#readme)
 
-<!-- TODO: - *August '22*  Finish high school with 10 study units in computers -->
+<!-- TODO: - *August '22*  Finished high school with 10 study units in computers -->
 
 ## Skills
 
