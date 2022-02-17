@@ -39,7 +39,7 @@ In 12th grade I did a wide Linux distributions tour on VirtualBox, and chose [Li
 I tasted a bit Machine Learning alogside **Python** and than did some of [CS](https://github.com/ossu/computer-science) cources from [OSSU](https://github.com/ossu).
 - https://github.com/dvirberlo/nand2tetris_project
 
-I did an annoying **C#** windows forms application for school.
+I did a **C#** windows forms application for school.
 - https://github.com/dvirberlo/periodical_table
 
 I [got dissappointed](https://forums.linuxmint.com/viewtopic.php?f=46&t=361219) of [Linux Mint](https://linuxmint.com), so I switch to [Fedora](https://getfedora.org).
