@@ -70,4 +70,5 @@ Then, I continued learning **Java** from a Youtube guide in Hebrew: (I didn't kn
 <summary> 2022 </summary>
 
 + Started to learn [CS-537](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) ([OSSU/CS - Core systems](https://github.com/ossu/computer-science#core-systems))
++ Played a bit with flutter [ConceptMapper](https://github.com/dvirberlo/concept_mapper)
 </details>
