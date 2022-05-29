@@ -1,7 +1,7 @@
 <p align="center">
     <img
         alt="avatar"
-        src="./avatar512.png"
+        src="./avatar_512.png"
         width="200"
         style="border-radius:50%!important;"
     />
