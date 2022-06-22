@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dvirberlo
 - 👀 I’m interested in new technologies, complicated systems and ingenious and revolutionary ideas.
-- 🌱 I’m currently in 12th grade and learning some [CS](https://github.com/ossu/computer-science#core-systems) courses.
+- 🌱 I’m currently on a pre-university vacation year, doing some projects and learning some [CS](https://github.com/ossu/computer-science#core-systems) courses.
 - 💞️ I’m looking to collaborate on anything meaningful and interesting.
-- 📫 How to reach me: dvir.berlowitz@hotmail.com
+- 📫 How to reach me: dvir.berl@gmail.com
 - More about me on [CV.md](./CV.md) and [TIMELINE.md](./TIMELINE.md)
 <!---
 dvirberlo/dvirberlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
