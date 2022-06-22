@@ -19,9 +19,6 @@
 ⬢⬡⬡⬡⬡
 **Machine Learning & Algorithms** 🧠
 
-⬢⬢⬡⬡⬡
-**Object Oriented Programming** 🚚
-
 ⬢⬢⬢⬢⬡
 **Websites & UI** 📱
 
@@ -82,7 +79,7 @@ Name:
 Dvir Berlowitz
 
 Email:
-dvir.berlowitz@hotmail.com
+dvir.berl@gmail.com
 
 Telegram:
 [@dvirberlo](https://t.me/dvirberlo)
