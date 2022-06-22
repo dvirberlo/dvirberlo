@@ -39,12 +39,13 @@ and [C#](https://github.com/dvirberlo/periodical_table)
 
 Technologies I know very well:
 Git,
-SQL,
 MongoDB,
+Firebase,
+SQL,
+Angular,
 jQuery,
 Bootstrap,
-NodeJS,
-Express,
+ExpressJS,
 Windows Forms
 
 ### Main projects
