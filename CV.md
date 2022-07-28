@@ -31,7 +31,7 @@
 
 The languages I used the most:
 [Python](https://github.com/dvirberlo/nand2tetris_project),
-[JavaScript](https://github.com/dvirberlo/game/blob/main/app.js)
+[TypeScript](https://github.com/dvirberlo/opinion-me)
 and [C#](https://github.com/dvirberlo/periodical_table)
 
 Technologies I know very well:
@@ -72,7 +72,7 @@ none -->
 ## Hobies
 
 - **Piano** 🎹
-- Bike 🚲
+- Swimming 🏊‍♂️
 
 ## Contact Me 👋
 Name:
