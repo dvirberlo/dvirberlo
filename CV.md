@@ -13,7 +13,7 @@
 
 - _August '21_ I Started [some CS courses](https://github.com/dvirberlo/dvirberlo/blob/main/TIMELINE.md#:~:text=2021) from [OSSU](https://github.com/ossu/computer-science#readme)
 
-<!-- TODO: - *August '22*  Finished high school with 10 study units in computers -->
+- *August '22*  I finished high school with 10 units in computers and 5 units in math, physics and English.
 
 ## Skills
 - Solid background and advanced knowledge in software development mainly in Python, TypeScript and C#.
@@ -42,14 +42,11 @@
 
 ## Languages
 
-⬢⬢⬢⬢⬢
-**Hebrew**
+- **Hebrew**: native language.
 
-⬢⬢⬢⬢⬡
-**English**
+- **English**: fluent and natural reading, writing and speaking.
 
-⬢⬡⬡⬡⬡
-**French**
+- **French**: some understanding and basic speaking.
 
 <!-- ## Work Experience
 
