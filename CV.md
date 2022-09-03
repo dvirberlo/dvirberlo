@@ -16,39 +16,24 @@
 <!-- TODO: - *August '22*  Finished high school with 10 study units in computers -->
 
 ## Skills
+- Solid background and advanced knowledge in software development mainly in Python, TypeScript and C#.
 
-⬢⬡⬡⬡⬡
-**Machine Learning & Algorithms** 🧠
+- Skilled working with NoSQL databases (mongoDB and firebase experience) and basic skill of SQL quering.
 
-⬢⬢⬢⬢⬡
-**Websites & UI** 📱
+- I have some experience with web UI programming using Angular, jQuery and Bootstrap.
 
-⬢⬢⬡⬡⬡
-**Linux** 🐧
+- I'm used to working with Git and I'm always interested to learn better and more efficient ways to get things done.
 
-⬢⬢⬢⬢⬡
-**Server & DB** 🌩️
+- I enjoy solving problem and programming with and without collaboration. I started to learn programming and develop apps very young as a hobby.
 
-The languages I used the most:
-[Python](https://github.com/dvirberlo/nand2tetris_project),
-[TypeScript](https://github.com/dvirberlo/opinion-me)
-and [C#](https://github.com/dvirberlo/periodical_table)
+- I enjoy learning new things and I'm able to learn things by myself. In fact, most of the knowledge I have in computer science I learned by myself.
 
-Technologies I know very well:
-Git,
-MongoDB,
-Firebase,
-SQL,
-Angular,
-jQuery,
-Bootstrap,
-ExpressJS,
-Windows Forms
+- I will be comitted to deliver company's objectives to projects and improve it's products.
 
 ### Main projects
 
 - [Angular Web App](https://github.com/dvirberlo/opinion-me)
--
+
 - [Nand2Tetris](https://github.com/dvirberlo/nand2tetris_project)
 
 - [Periodical Table](https://github.com/dvirberlo/periodical_table)
