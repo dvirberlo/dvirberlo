@@ -54,7 +54,7 @@ Then, I continued learning **Java** from a Youtube guide in Hebrew: (I didn't kn
 <details>
 <summary> 2021 </summary>
 
-+ In 12th grade I did a wide Linux distributions tour on VirtualBox, and really liked [Linux Mint](https://linuxmint.com).
++ In 12th grade I had the first taste of the rich and wide world of Linux.
 
 + I tasted a bit Machine Learning alogside **Python** and then did some of [CS](https://github.com/ossu/computer-science) cources from [OSSU](https://github.com/ossu).
     - [nand2tetris_project](https://github.com/dvirberlo/nand2tetris_project)
@@ -63,14 +63,15 @@ Then, I continued learning **Java** from a Youtube guide in Hebrew: (I didn't kn
 + I did a **C#** windows forms application for school.
     - https://github.com/dvirberlo/periodical_table
 
-+ I [got dissappointed](https://forums.linuxmint.com/viewtopic.php?f=46&t=361219) of [Linux Mint](https://linuxmint.com), so I switched to [Fedora](https://getfedora.org).
++ Started to use Linux machine (or Linux container, with GitPod) as programming and learning environment.
 </details>
 
 <details open>
 <summary> 2022 </summary>
 
 + Learned [CS-537](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) ([OSSU/CS - Core systems](https://github.com/ossu/computer-science#core-systems))
+    - [ostep-projects-rust](https://github.com/dvirberlo/ostep-projects-rust)
 + Played a bit with flutter [ConceptMapper](https://github.com/dvirberlo/concept_mapper)
 + Finished second part of CS-6.0001 (6.0002)
-+ Started an Angular-Firebase project [OpinionMe](https://github.com/dvirberlo/opinion-me)
++ Learned many things by doing an Angular-Firebase project [OpinionMe](https://github.com/dvirberlo/opinion-me)
 </details>
