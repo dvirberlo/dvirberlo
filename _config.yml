@@ -1,0 +1,4 @@
+markdown: kramdown
+kramdown:
+  input: GFM
+  remove_block_html_tags: false
