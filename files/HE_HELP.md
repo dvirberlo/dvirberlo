@@ -1,3 +1,7 @@
+---
+title: Welcome
+---
+
 <div dir="rtl" style="direction:rtl">
 <h1 id="מה-אתה-רוצה">מה אתה רוצה?</h1>
 
