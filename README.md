@@ -3,7 +3,10 @@
 - 🌱 I’m currently currently pursuing a degree in Computer Science at a university.
 - 💞️ I’m looking to collaborate on anything meaningful and interesting.
 - 📫 How to reach me: dvir.berl@gmail.com
+<!--
 - More about me on [CV.md](./CV.md) and [TIMELINE.md](./TIMELINE.md)
+-->
+
 <!---
 dvirberlo/dvirberlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
